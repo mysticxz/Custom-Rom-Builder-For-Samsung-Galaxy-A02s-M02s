@@ -35,7 +35,7 @@ jobs:
     - name: Preparing Files
       run: |
         wget https://sourceforge.net/projects/samsung-galaxy-a01-m01/files/sdm450-a02s_qcom.zip
-        git clonehttps://github.com/unkSource/Custom-Rom-Builder-For-Samsung-Galaxy-A01
+        git clone https://github.com/unkSource/Custom-Rom-Builder-For-Samsung-Galaxy-A01
         unzip sdm450-a02s_qcom.zip
         rm -r sdm450-a02s_qcom.zip
 
