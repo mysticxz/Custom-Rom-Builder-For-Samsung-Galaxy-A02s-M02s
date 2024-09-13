@@ -1,5 +1,5 @@
 # Custom Rom Builder For Samsung Galaxy A02s/M02s (QCOM)
-# Now Work!!!
+Now Work!!!
 
 <br>⚬ This tool can create full flashable zip with any gsi</br>
 ⚬ This tool support only arm64
